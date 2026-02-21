@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Urooj Fatima
 
-<!--
-**Urooj25/Urooj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Student (NUST '29)  
+💻 Currently learning C++ and Python  
+🤖 Exploring Machine Learning & AI  
+🚀 Future Tech Entrepreneur  
+📈 Building projects and improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C++
+- Python
+- Basic Problem Solving
+- Git & GitHub (Learning)
+
+---
+
+## 🎯 Current Goals
+- Strengthen programming fundamentals  
+- Build 10+ solid projects  
+- Contribute to open source  
+- Become internship-ready  
+
+---
+
+⭐ “Consistency beats talent when talent doesn’t work hard.”
