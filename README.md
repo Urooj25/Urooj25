@@ -13,6 +13,10 @@
 - Python
 - Basic Problem Solving
 - Git & GitHub (Learning)
+- ML
+- Gen AI
+- NLP
+- Deep learning
 
 ---
 
