@@ -1,7 +1,7 @@
 # Hi 👋 I'm Urooj Fatima
 
 🎓 Electrical Engineering Student (NUST '29)  
-💻 Currently learning C++ and Python  
+💻 C++ and Python  
 🤖 Exploring Machine Learning & AI  
 🚀 Future Tech Entrepreneur  
 📈 Building projects and improving every day  
@@ -11,12 +11,13 @@
 ## 🛠 Skills
 - C++
 - Python
-- Basic Problem Solving
-- Git & GitHub (Learning)
+- Problem Solving
+- Git & GitHub 
 - ML
 - Gen AI
 - NLP
 - Deep learning
+- Computer vision
 
 ---
 
